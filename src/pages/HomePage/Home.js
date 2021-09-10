@@ -8,7 +8,6 @@ function Home() {
             <InfoSection {...homeObjOne} />
             <InfoSection {...homeObjThree} />
             <InfoSection {...homeObjTwo} />
-
             <InfoSection {...homeObjFour} />
         </>
     );
